@@ -8,7 +8,7 @@ span.cm-keyword {
     text-shadow: 0 0 1pt #052148;
 }
 span.cm-atom {
-    color: #ccaaff;
+    color: #E26035;
     text-shadow: 0 0 2pt #c000aa;
 }
 span.cm-comment {
@@ -20,7 +20,7 @@ span.cm-qualifier {
     text-shadow: 0 0 2pt #1b2c5c;
 }
 span.cm-number {
-    color: #ff7272;
+    color: #FC9F80;
     text-shadow: 0 0 2pt #aa0000;
 }
 span.cm-property {
@@ -28,19 +28,19 @@ span.cm-property {
     text-shadow: 0 0 2pt #021;
 }
 span.cm-attribute {
-    color: #8ae5c9;
+    color: #47C5D6;
     text-shadow: 0 0 2pt #021;
 }
 span.cm-string {
-    color: #ffa2ea;
+    color: #E94E4E;
     text-shadow: 0 0 4pt #f01662;
 }
 span.cm-string-2 {
-    color: #ff7dd2;
+    color: #91FC58;
     text-shadow: 0 0 4pt #f01662;
 }
 span.cm-variable {
-    color: #aaeaaa;
+    color: #EBEBAC;
     text-shadow: 0 0 2pt #327232;
 }
 span.cm-variable-2 {
@@ -60,7 +60,7 @@ span.cm-bracket {
     text-shadow: 0 0 2pt #CAEAFF;
 }
 span.cm-tag {
-    color: #ff61bc;
+    color: #4099E1;
     text-shadow: 0 0 2pt #b22878;
 }
 span.cm-link {
@@ -104,7 +104,7 @@ span.cm-plus {
 */
 
 .CodeMirror {
-    background-color: #0A0A0A;
+    background-color: #3c3f41;
     color: #f0f0f0;
 }
 .CodeMirror .CodeMirror-scroll {
